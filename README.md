@@ -1,0 +1,2 @@
+# multivariate_timeseries_dilated_conv
+Multivariate Time Series Classification using Dilated Convolutional Neural Network
